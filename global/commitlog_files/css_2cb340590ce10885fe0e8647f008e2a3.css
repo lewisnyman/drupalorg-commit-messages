@@ -61,6 +61,9 @@ div.fieldgroup{margin:.5em 0 1em 0;}div.fieldgroup .content{padding-left:1em;}
 .commit-global {
   line-height: 2.076923077em;
 }
+.commit-info {
+  color: #727263;
+}
 .view-vc-git-project-global-commits pre, .view-vc-git-project-global-commits li .field-content pre, .view-vc-git-project-user-commits li .field-content pre, .view-vc-git-project-commit-view li .field-content pre {
 white-space: pre-wrap;
 word-wrap: break-word;
